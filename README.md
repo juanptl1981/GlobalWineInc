@@ -12,11 +12,13 @@ The scope of this project was to perform a ETL (extract, transform, and load) pr
 
 <h2>Files:</h2>
 <ol>
-  <li><a href="https://github.com/juanptl1981/GlobalWineInc/blob/master/wine-reviews/winemag-data-130k-v2.csv">winemag-data-130k-       v2.csv</a></li>
-  ![winemag-data-130k-v2](support_images/winemag-data-130k-v2.PNG)
+  <li><a href="https://github.com/juanptl1981/GlobalWineInc/blob/master/wine-reviews/winemag-data-130k-v2.csv">winemag-data-130k-       v2.csv</a></li> 
   <li><a href="https://github.com/juanptl1981/GlobalWineInc/blob/master/wine-reviews/winemag-data_first150k.csv">winemag-data_first150k.csv</li> 
-    ![winemag-data_first150k](support_images/winemag-data_first150k.PNG)
-</ol>
+  </ol>
+  
+ ![winemag-data-130k-v2](support_images/winemag-data-130k-v2.PNG)
+ 
+ ![winemag-data-150k-v2](support_images/winemag-data-150k-v2.PNG)
 
 <h2>Data Analytics Swiss Army knife:</h2>
 <ol>
