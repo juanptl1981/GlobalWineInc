@@ -1,0 +1,12 @@
+DROP TABLE wine_reviews
+
+SELECT * 
+FROM wine_reviews
+
+DELETE FROM wine_reviews
+WHERE price = 0 
+
+SELECT country, avg(points) as "average points", avg(price) as "average price" 
+FROM wine_reviews
+GROUP BY country 
+ORDER BY "average points" DESC 
